@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Mit Gujarati",
+    "description":"I am a web development engineer and I use reactjs to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"I am looing for internship opportunity to improve my technical skills and to prepare for professional career. Technology- HTML,CSS,JAVASCRIPT And REACTJS have been level upped by me. ",
+    "contactmessage":"",
+    "email": "mitgujarati3010@gmail.com",
+    "phone": "+91 9978718640",
+    "github":"",
+    "project":"",
+    "address":{
+      "street":"226, New Shakti Vijay soc, Varachha Road",
+      "city":"Surat",
+      "state":"Gujarat",
+      "zip": "395006"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Shree Swami Atmanand Sarswati Institute of Technology",
+        "degree":"Bachlor's in Computer Engineering",
+        "graduated":"July-2024",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"P.P.Savani Vidhyabhavan",
+        "degree":"12th",
+        "graduated":"March 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Sadguru-Soft",
+        "title":"Front-end Web Development Intern",
+        "years":"July-2023",
+        "description":"Making of Responsive Web Pages using HTML,CSS and JavaScript"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVASCRIPT",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"50%"
+      },
+      {
+        "name":"Data Science",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Online Vehicle Service Registration",
+        "category":"To book service appointment for Vehicle",
+        "image":"./img/img3.png",
+        "url":"./img/img3.png"
+      },
+      {
+        "title":"online Voting Booth",
+        "category":"Front-end Design with PHP",
+        "image":"./img/img2.png",
+        "url":"./img/img2.png"
+      },
+      {
+        "title":"Todo-List",
+        "category":"Manage and Add Daily Task using ReactJS",
+        "image":"./img/img1.jpg",
+        "url":"./img/img1.jpg"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"./img/img4.png",
+        "url":"./img/img4.png"
+      }
+    ]
+  }
+}
